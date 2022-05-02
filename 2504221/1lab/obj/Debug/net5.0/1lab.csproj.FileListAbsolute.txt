@@ -1,0 +1,16 @@
+D:\kardashevskiyVS\1lab\1lab\bin\Debug\net5.0\1lab.exe
+D:\kardashevskiyVS\1lab\1lab\bin\Debug\net5.0\1lab.deps.json
+D:\kardashevskiyVS\1lab\1lab\bin\Debug\net5.0\1lab.runtimeconfig.json
+D:\kardashevskiyVS\1lab\1lab\bin\Debug\net5.0\1lab.runtimeconfig.dev.json
+D:\kardashevskiyVS\1lab\1lab\bin\Debug\net5.0\1lab.dll
+D:\kardashevskiyVS\1lab\1lab\bin\Debug\net5.0\ref\1lab.dll
+D:\kardashevskiyVS\1lab\1lab\bin\Debug\net5.0\1lab.pdb
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.csproj.AssemblyReference.cache
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.AssemblyInfoInputs.cache
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.AssemblyInfo.cs
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.csproj.CoreCompileInputs.cache
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.dll
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\ref\1lab.dll
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.pdb
+D:\kardashevskiyVS\1lab\1lab\obj\Debug\net5.0\1lab.genruntimeconfig.cache
