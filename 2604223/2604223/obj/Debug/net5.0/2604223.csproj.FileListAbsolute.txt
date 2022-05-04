@@ -1,0 +1,16 @@
+D:\kardashevskiyVS\2604223\2604223\bin\Debug\net5.0\2604223.exe
+D:\kardashevskiyVS\2604223\2604223\bin\Debug\net5.0\2604223.deps.json
+D:\kardashevskiyVS\2604223\2604223\bin\Debug\net5.0\2604223.runtimeconfig.json
+D:\kardashevskiyVS\2604223\2604223\bin\Debug\net5.0\2604223.runtimeconfig.dev.json
+D:\kardashevskiyVS\2604223\2604223\bin\Debug\net5.0\2604223.dll
+D:\kardashevskiyVS\2604223\2604223\bin\Debug\net5.0\ref\2604223.dll
+D:\kardashevskiyVS\2604223\2604223\bin\Debug\net5.0\2604223.pdb
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.csproj.AssemblyReference.cache
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.GeneratedMSBuildEditorConfig.editorconfig
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.AssemblyInfoInputs.cache
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.AssemblyInfo.cs
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.csproj.CoreCompileInputs.cache
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.dll
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\ref\2604223.dll
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.pdb
+D:\kardashevskiyVS\2604223\2604223\obj\Debug\net5.0\2604223.genruntimeconfig.cache
