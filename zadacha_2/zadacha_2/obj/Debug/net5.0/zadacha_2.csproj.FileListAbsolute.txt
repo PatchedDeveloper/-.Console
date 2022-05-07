@@ -1,0 +1,16 @@
+D:\kardashevskiyVS\zadacha_2\zadacha_2\bin\Debug\net5.0\zadacha_2.exe
+D:\kardashevskiyVS\zadacha_2\zadacha_2\bin\Debug\net5.0\zadacha_2.deps.json
+D:\kardashevskiyVS\zadacha_2\zadacha_2\bin\Debug\net5.0\zadacha_2.runtimeconfig.json
+D:\kardashevskiyVS\zadacha_2\zadacha_2\bin\Debug\net5.0\zadacha_2.runtimeconfig.dev.json
+D:\kardashevskiyVS\zadacha_2\zadacha_2\bin\Debug\net5.0\zadacha_2.dll
+D:\kardashevskiyVS\zadacha_2\zadacha_2\bin\Debug\net5.0\ref\zadacha_2.dll
+D:\kardashevskiyVS\zadacha_2\zadacha_2\bin\Debug\net5.0\zadacha_2.pdb
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.csproj.AssemblyReference.cache
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.AssemblyInfoInputs.cache
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.AssemblyInfo.cs
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.csproj.CoreCompileInputs.cache
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.dll
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\ref\zadacha_2.dll
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.pdb
+D:\kardashevskiyVS\zadacha_2\zadacha_2\obj\Debug\net5.0\zadacha_2.genruntimeconfig.cache

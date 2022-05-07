@@ -1,0 +1,16 @@
+D:\kardashevskiyVS\mass01\mass01\bin\Debug\net5.0\mass01.exe
+D:\kardashevskiyVS\mass01\mass01\bin\Debug\net5.0\mass01.deps.json
+D:\kardashevskiyVS\mass01\mass01\bin\Debug\net5.0\mass01.runtimeconfig.json
+D:\kardashevskiyVS\mass01\mass01\bin\Debug\net5.0\mass01.runtimeconfig.dev.json
+D:\kardashevskiyVS\mass01\mass01\bin\Debug\net5.0\mass01.dll
+D:\kardashevskiyVS\mass01\mass01\bin\Debug\net5.0\ref\mass01.dll
+D:\kardashevskiyVS\mass01\mass01\bin\Debug\net5.0\mass01.pdb
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.csproj.AssemblyReference.cache
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.GeneratedMSBuildEditorConfig.editorconfig
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.AssemblyInfoInputs.cache
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.AssemblyInfo.cs
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.csproj.CoreCompileInputs.cache
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.dll
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\ref\mass01.dll
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.pdb
+D:\kardashevskiyVS\mass01\mass01\obj\Debug\net5.0\mass01.genruntimeconfig.cache
